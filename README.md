@@ -1,7 +1,3 @@
-Sure! Here's a well-defined and detailed README template for your project **"Basic Statistical Analysis in HealthCare"**.
-
----
-
 # Basic Statistical Analysis in Healthcare
 
 ## Overview
